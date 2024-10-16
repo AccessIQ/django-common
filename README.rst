@@ -1,3 +1,5 @@
+	⚠️ This fork & the ``django_common`` package is **NO LONGER USED** as of https://github.com/AccessIQ/assessment-platform/pull/639
+
 =====================
 django-common-helpers
 =====================
